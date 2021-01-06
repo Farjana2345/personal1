@@ -1,0 +1,280 @@
+body{
+   margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+   
+}
+h2{
+    font-size: 40px;
+    color: white;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    
+}
+
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+.half-width img{
+    width: 90%;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 25px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+.name-highlight{
+    color:tomato;
+
+}
+.half-width p{
+    margin-top: -30px;
+    font-size: 15px;
+    font-weight: bold;
+    color: darkgray;
+}
+section{
+    height: 500px;
+}
+.service p{
+    font-size: 15px;
+    font-weight: bold;
+    color: darkgray;
+    text-align: center;
+        
+}
+
+h3{
+    color: white;
+}
+.image img{
+    width: 100px;
+   
+    
+}
+.image{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: blue;
+    padding:10px;
+    
+    
+}
+.image1 img{
+    width: 100px;
+  
+}
+.image2 img{
+    width: 100px;
+  
+}
+.image3 img{
+    width: 100px;
+  
+}
+.image1{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: orange;
+    padding:10px;
+    
+    
+}
+.image2{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color:seagreen;
+    padding:10px;
+    
+    
+}
+.image3{
+    border: 1px solid;
+    border-radius: 10px;
+    background-color:pink;
+    padding:10px;
+    
+    
+}
+.ux{
+    width: 400px;
+}
+.ux h3{
+    margin-left:20px;
+    font-size: 20;
+ 
+}
+.ux p{
+    margin-left:20px;
+    margin-top:5px;
+    color: white;
+    font-weight: bold;
+}
+.header h1{
+    text-align: center;
+}
+
+
+
+
+
+.half-width1{
+    width:25.3%;
+    float: left;
+}
+
+.single-experience1 img{
+    height: 200px;
+    width: 305px;
+    margin-left:16px;
+}
+.single-experience2 img{
+    height: 200px;
+    width: 305px;
+    margin-left:16px;
+}
+.single-experience3 img{
+    height: 200px;
+    width: 305px;
+    margin-left:16px;
+}
+.single-experience1{
+   
+    margin-left:30px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.single-experience2{
+    border-radius: 10px;
+    margin-left:30px;
+    background-color: white;
+    padding: 20px;
+}
+.single-experience3{
+    border-radius: 10px;
+    margin-left:30px;
+    background-color: white;
+    padding: 20px;
+}
+.single-experience1 p{
+    color:gray;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 25px;
+}
+.single-experience2 p{
+    color: gray;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 25px;
+}
+.single-experience3 p{
+    color: gray;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 25px;
+}
+.single-experience1 h3{
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 25px;
+}
+.single-experience2 h3{
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 25px;
+}
+.single-experience3 h3{
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 25px;
+}
+.experience-area h2{
+    text-align: center;
+}
+.inquery-part{
+    width: 40%;
+    float: left;
+    
+}
+.part2 a{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 25px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+   
+    
+}
+.part2{
+    margin-top: 50px;
+    float:right;
+}
+.inquery-part h2{
+    float: right;
+}
+.inquery{
+   
+    display: inline-block;
+    width: 70%;
+    height: 120px;
+    border-radius: 30px;
+    margin-left: 150px;
+    background-image:  url("images/back.png");
+    background-repeat:no-repeat ;
+    background-position: left; 
+}
+label{
+    color:white;
+    font-size: 20px;
+   
+    
+}
+input{
+    width: 100%;
+    height: 50px;
+    background-color:dimgrey;
+}
+.name{
+    width: 40%;
+    float: left;
+}
+.name {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+footer h2{
+    text-align: center;
+}
+.name2{
+    margin-left: 50px;
+}
+.copy{
+    color: white;
+}
+.copy h2{
+ text-align: center;
+}
+.footer p{
+    color: white;
+}
